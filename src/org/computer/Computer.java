@@ -5,5 +5,7 @@ public class Computer {
 		System.out.println("Model:Zebronics");
 
 	}
-
+ public void test() {
+	System.out.println("Test");
+}
 }
